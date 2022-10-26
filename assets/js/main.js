@@ -4,6 +4,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
 (function($) {
 
 	var	$window = $(window),
@@ -24,6 +25,7 @@
 			xsmall:    ['361px',    '480px'    ],
 			xxsmall:   [null,       '360px'    ]
 		});
+
 
 	/**
 	 * Applies parallax scrolling to an element's background image.
@@ -251,7 +253,11 @@
 						}
 					});
 
+					
+
 			});
+
+			
 
 		}
 
